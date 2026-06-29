@@ -1,7 +1,8 @@
 # HC-05 BT Controller — Build & Deploy Tool
-### `setup_and_build_mk3.sh`  ·  Mark Harrington  ·  Oukitel C2
+### `setup_and_build_mk3.sh` · Mark Harrington . London UK .  Kent · Oukitel C2
 
-> A fully menu-driven Bash script for building, signing, and deploying an Android Bluetooth controller APK on **Debian 12 / Ubuntu** or **openSUSE Tumbleweed / Leap** — no config file editing, no manual `export`, no guessing which APK was installed.
+> A fully menu-driven Bash script for building, signing, and deploying an Android Bluetooth controller APK on **Debian 12 / Ubuntu** or **openSUSE Tumbleweed / Leap** — no config file editing, no manual `export`, no guessing which APK was installed. 
+Now you can do all of this yourselves , no need to use Google Play Stall and you can sign these yourselves 
 
 | | |
 |---|---|
